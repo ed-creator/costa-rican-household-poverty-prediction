@@ -18,5 +18,6 @@ Beyond Costa Rica, many countries face this same problem of inaccurately assessi
 
 This is a Kernels-Only Competition, so you must submit your code through Kernels, rather than uploading .csv predictions. You can create private Kernels and even share/edit your work with teammates by adding them as collaborators.
 
+### Evaluation
 
-
+F1 Score will be used to evaluate the results
