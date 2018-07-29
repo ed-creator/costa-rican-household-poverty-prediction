@@ -2,6 +2,8 @@
 
 ## A Kaggle Competition
 
+### Description
+
 The Inter-American Development Bank is asking the Kaggle community for help with income qualification for some of the world's poorest families. Are you up for the challenge?
 
 Here's the backstory: Many social programs have a hard time making sure the right people are given enough aid. It’s especially tricky when a program focuses on the poorest segment of the population. The world’s poorest typically can’t provide the necessary income and expense records to prove that they qualify.
@@ -15,4 +17,6 @@ To improve on PMT, the IDB (the largest source of development financing for Lati
 Beyond Costa Rica, many countries face this same problem of inaccurately assessing social need. If Kagglers can generate an improvement, the new algorithm could be implemented in other countries around the world.
 
 This is a Kernels-Only Competition, so you must submit your code through Kernels, rather than uploading .csv predictions. You can create private Kernels and even share/edit your work with teammates by adding them as collaborators.
+
+
 
